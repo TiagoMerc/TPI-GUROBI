@@ -1,0 +1,1 @@
+Exercícios do TPI feitos em Python usando o Jupyter Notebook (Anaconda 3). Foi disponibilizado os exercícios em dois formatos ".py" e ".ipynb". Na primeira célula foi incluído uma breve descrição do problema com função objetiva, restrições e importando a biclioteca do GUROBI; na segunda célula é inserido as informações para criar o modelo. 
